@@ -3,4 +3,4 @@
 Bu proje Wagmi Workshop esnasında yazılmıştır. Katkıda bulunmak için projeyi yıldızlayabilirsiniz 😊
 
 ### Contributor/Presenter
-@umutsatir
+- [@umutsatir](https://www.github.com/umutsatir)
